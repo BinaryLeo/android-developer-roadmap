@@ -8,6 +8,9 @@
   <a href="https://github.com/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/skydoves.svg"/></a>
 </p>
 
+<p align="center">
+<a href="/README_AR.md" target="_blank"> Arabic </a> | <a href="/README.md" target="_blank"> English </a> | <a href="/README_KR.md" target="_blank"> 한국어 </a> | <a href="/README_DE.md" target="_blank"> Deutsch </a>| <a href="/README_ES.md" target="_blank"> Español</a> | <a href="/README_TR.md" target="_blank"> Turkish</a> | <a href="/README_ID.md" target="_blank"> Bahasa Indonesia</a> | <a href="/README_FR.md" target="_blank"> Français</a> | <a href="/README_PT.md" target="_blank"> Portuguese</a> | <a href="/README_KHM.md" target="_blank">ភាសាខ្មែរ</a> | <a href="/README_VI.md" target="_blank">Vietnamese</a> | <a href="/README_CN.md" target="_blank">中文</a> | <a href="/README_JP.md" target="_blank">日本語</a>
+</p>
 
 2022 안드로이드 개발자 로드맵은 안드로이드 개발의 이해를 돕기 위한 학습 경로를 소개합니다. 로드맵 중간에 있는 선 경로를 따라서 로드맵을 읽으실 수 있습니다. <br>
 
@@ -15,9 +18,18 @@
 
 아울러 로드맵은 안드로이드 개발에 관한 모든 것을 다루지 않으며, 로드맵의 내용 전부를 학습하실 필요도 없습니다. 따라서 학습이 필요한 부분만 참조하시는 것을 권장해 드립니다.
 
-## Roadmap
+## 🗺 Roadmap
 
-![Roadmap](/images/android_developer_roadmap.png)
+<details>
+  <summary>다크모드로 안드로이드 로드맵 보기</summary>
+
+![Roadmap](images/android_developer_roadmap_dark.png)
+
+</details>
+
+<br>
+
+![Roadmap](images/android_developer_roadmap.png)
 
 ## Articles
 
